@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email       = ["ek.h1.hy@gmail.com"]
   spec.homepage    = "http://example.com"
   spec.summary     = "Summary of Reprioritizable."
-  spec.description = "Description of Reprioritizable."
+  spec.description = "You can change the priority in the scope"
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

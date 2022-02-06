@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    reprioritizable (0.1.0)
+    reprioritizable (0.1.1)
       byebug
       rails (~> 6.1.4, >= 6.1.4.4)
       rspec-rails
